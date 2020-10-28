@@ -5,6 +5,7 @@ print("| x2 | y2 |")
 print("| x3 | y3 |")
 print("")
 print("solve for y2")
+print("")
 
 x1 = float(input("x1 value: ")); y1 = float(input("y1 value: "))
 x2 = float(input("x2 value: "))
